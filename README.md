@@ -1,4 +1,4 @@
-### badsh1mmer
+###  an updated version of badsh1mmer
 
 # Support
 If you need any kind of support, please join our [discord server](https://discord.gg/nrMVY29MUb) for help
